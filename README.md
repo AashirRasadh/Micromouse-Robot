@@ -1,7 +1,7 @@
 # Micromouse Project v1.0
 
 *Last Updated: August 19, 2025*
-![Micromouse Robot](Mouse%20pictures/mouse.jpg)
+<img src="Mouse%20pictures/mouse.jpg" alt="Micromouse Robot" width="400">
 
 
 
