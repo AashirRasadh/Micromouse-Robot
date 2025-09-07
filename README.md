@@ -2,6 +2,8 @@
 
 *Last Updated: August 19, 2025*
 
+![Micromouse Robot]("Mouse pictures/micromouse.jpg")
+
 ## 🏆 Overview
 
 This is a championship-level micromouse implementation designed for **international competition standards**. Based on algorithms from world record holders and competition winners, this implementation provides:
