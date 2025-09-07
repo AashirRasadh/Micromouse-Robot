@@ -3,7 +3,7 @@
 *Last Updated: August 19, 2025*
 
 
-<img src="Mouse%20pictures/mouse.jpg" alt="Micromouse Robot" width="300" height="300">
+<img src="Mouse%20pictures/mouse.jpg" alt="Micromouse Robot" width="300" height="400">
 
 
 
