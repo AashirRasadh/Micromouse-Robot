@@ -1,9 +1,9 @@
 # Micromouse Project v1.0
 
 *Last Updated: August 19, 2025*
-![Micromouse Robot]("D:\Cursor Document\Micromouse-Robot\Mouse pictures")
 
-![Micromouse Robot]("Mouse pictures/micromouse.jpg")
+![Micromouse Robot](Mouse pictures/mouse.jpg)
+
 
 ## 🏆 Overview
 
