@@ -168,7 +168,7 @@ int main(void)
 
   }
 
-  // Test ADC functionality
+  // Test ADC functionalityy
   update_sensors();
   if (sensors.battery == 0 && sensors.front_left == 0 &&
       sensors.front_right == 0 && sensors.side_left == 0 && sensors.side_right == 0) {
